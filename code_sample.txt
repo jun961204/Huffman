@@ -1,0 +1,5 @@
+Space: 00
+I: 01
+d: 10
+o: 11
+Ave = 2.00 bits per symbol
